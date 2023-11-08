@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_list/menu.dart';
-import 'package:shopping_list/shoplist_form.dart'; // Import file ShopFormPage
+import 'package:shopping_list/screens/menu.dart';
+import 'package:shopping_list/screens/shoplist_form.dart'; // Import file ShopFormPage
 
 class LeftDrawer extends StatelessWidget {
   const LeftDrawer({super.key});
