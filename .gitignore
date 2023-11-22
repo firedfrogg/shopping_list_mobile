@@ -38,19 +38,9 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-# add comment for app center
-# gradle-wrapper.jar
-# /gradlew
-# /gradlew.bat
-/.gradle
-/captures/
-/local.properties
-GeneratedPluginRegistrant.java
-
 # Android Studio will place build artifacts here
 /android/app/debug
 /android/app/profile
 /android/app/release
-key.properties
-**/*.keystore
-**/*.jks
+*.keystore
+*.jks
